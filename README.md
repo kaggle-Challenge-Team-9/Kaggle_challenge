@@ -1,8 +1,4 @@
-# Kaggle Challenge : Spaceship Titanic :rocket: 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sunshineatnoon/Paper-Collection/master/images/FCN1.png" width="50%" >
-</p>
+# Kaggle Challenge : Spaceship Titanic :rocket:
 
 ## Introduction
 Welcome to our GitHub repository for the Spaceship Titanic Kaggle Challenge! In this group assignment, our team has come together to develop a statistical/machine learning model to predict outcomes related to the Titanic dataset. This README file serves as a guide to understanding our project, workflow, and contributions.
