@@ -17,4 +17,11 @@ We have utilized Google Colab for collaborative coding and GitHub for version co
 
 ............https://github.com/divamgupta/image-segmentation-keras/blob/master/README.md...................reference
 
+## Presentation 📽️
 
+
+## Critical Analysis 📈🔬
+
+## Teamwork 🤝🌟
+
+## Submission 📝
