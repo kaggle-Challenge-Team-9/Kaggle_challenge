@@ -1,6 +1,6 @@
 # Kaggle Challenge : Spaceship Titanic :rocket:
 <img src="https://storage.googleapis.com/kaggle-media/competitions/Spaceship%20Titanic/joel-filipe-QwoNAhbmLLo-unsplash.jpg" alt="Logo" width="400">
-Welcome to our GitHub repository for the Spaceship Titanic Kaggle Challenge! In this group assignment, our team has come together to develop a statistical/machine learning model to predict outcomes related to the Titanic dataset. This README file serves as a guide to understanding our project, workflow, and contributions.
+This project involves working on a dataset provided by a Kaggle competition named "Space Titanic". The goal of the competition is to predict whether a passenger was transported to an alternate dimension during the spaceship's voyage. This project demonstrates the entire data science workflow: from data loading and cleaning to exploratory data analysis, feature engineering, model training, and finally, making predictions for submission.
 
 ## Team Members 👩🏼‍🤝‍🧑🏼
 * Albin Tom Baby
@@ -45,9 +45,8 @@ We have utilized Google Colab for collaborative coding and GitHub for version co
  ### Colab Link:
 ➡️ https://colab.research.google.com/drive/13r6DaJig_OH3AE0Iu26IvlMHtoQoZFFh ⬅️
  ### Github Link:
-➡️ ⬅️
+➡️ https://github.com/kaggle-Challenge-Team-9/Kaggle_challenge ⬅️
 ## Presentation 📽️
-
 
 ## Critical Analysis 📈🔬
 
