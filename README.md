@@ -1,5 +1,8 @@
-# Kaggle Challenge : Spaceship Titanic :rocket:
-<img src="https://images.nightcafe.studio/jobs/neJ6WkwM4rNhSCoSr5Ub/neJ6WkwM4rNhSCoSr5Ub--1--u6g4v_4x.jpg?tr=w-1600,c-at_max" alt="Logo" width="400">
+# Kaggle Challenge : Spaceship Titanic :rocket: 
+
+<p align="center">
+<img src="https://images.nightcafe.studio/jobs/neJ6WkwM4rNhSCoSr5Ub/neJ6WkwM4rNhSCoSr5Ub--1--u6g4v_4x.jpg?tr=w-1600,c-at_max" alt="Logo" width="600">
+</p>
 
 This project involves working on a dataset provided by a Kaggle competition named "Space Titanic". The goal of the competition is to predict whether a passenger was transported to an alternate dimension during the spaceship's voyage. This project demonstrates the entire data science workflow: from data loading and cleaning to exploratory data analysis, feature engineering, model training, and finally, making predictions for submission.
 
@@ -39,14 +42,10 @@ In this competition our task is to predict whether a passenger was transported t
 |------------------|-------------------|
 |Passenger Id       |Id for each passenger in the test set.| 
 |Transported       |The target. For each passenger, predict either True or False.| 
- 
-## Colab & GitHub 🖥
-We have utilized Google Colab for collaborative coding and GitHub for version control and sharing our work. Our shared Colab notebook is linked to our GitHub repository, facilitating seamless collaboration. Detailed instructions for accessing our Colab notebook and GitHub repository can be found in the presentation slides provided.
 
- ### Colab Link:
+ 
+ ### Google Colaboratory Link:
 ➡️ https://colab.research.google.com/drive/13r6DaJig_OH3AE0Iu26IvlMHtoQoZFFh ⬅️
- ### Github Link:
-➡️ https://github.com/kaggle-Challenge-Team-9/Kaggle_challenge ⬅️
 
 ## Features ✨
   * Data Preprocessing: Cleaning and preparing data for analysis, including handling missing values and feature encoding.
@@ -55,8 +54,10 @@ We have utilized Google Colab for collaborative coding and GitHub for version co
   * Model Evaluation: Assessing model performance with appropriate metrics.
   * Kaggle Submission: Generating a submission file formatted for the Kaggle competition.
 
+
 ## Critical Analysis 📈🔬
 
 ## Teamwork 🤝🌟
 
-## Submission 📝
+## Submissions 📝
+![image](https://github.com/kaggle-Challenge-Team-9/Kaggle_challenge/assets/117082209/c5227299-3040-47bf-8637-588eea0de875)
