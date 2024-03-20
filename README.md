@@ -43,9 +43,9 @@ In this competition our task is to predict whether a passenger was transported t
 We have utilized Google Colab for collaborative coding and GitHub for version control and sharing our work. Our shared Colab notebook is linked to our GitHub repository, facilitating seamless collaboration. Detailed instructions for accessing our Colab notebook and GitHub repository can be found in the presentation slides provided.
 
  ### Colab Link:
- (https://colab.research.google.com/drive/13r6DaJig_OH3AE0Iu26IvlMHtoQoZFFh)
+➡️ https://colab.research.google.com/drive/13r6DaJig_OH3AE0Iu26IvlMHtoQoZFFh ⬅️
  ### Github Link:
- 
+➡️ ⬅️
 ## Presentation 📽️
 
 
