@@ -45,8 +45,8 @@ In this competition our task is to predict whether a passenger was transported t
   Personal records for the remaining one-third (~4300) of the passengers, to be used as test data.
   
 |     |     | 
-|------------------|-------------------|| vgg_pspnet       | VGG 16            | 
-|sample_submission.csv | Resnet-50         |
+|------------------|-------------------|
+|sample_submission.csv | Resnet-50     |
 |PassengerId       | Vanilla Mini CNN  | 
 |Transported       | Vanilla CNN       | 
  
