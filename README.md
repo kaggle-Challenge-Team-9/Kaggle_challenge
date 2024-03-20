@@ -13,8 +13,8 @@ Welcome to our GitHub repository for the Spaceship Titanic Kaggle Challenge! In 
 ## Dataset 📊
 In this competition our task is to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. We were given a set of personal records recovered from the ship's damaged computer system.
 
-## File and Data Field Descriptions
-  ### train.csv 
+### File and Data Field Descriptions
+  #### train.csv 
   Personal records for about two-thirds (~8700) of the passengers, to be used as training data.
   
 |Files     |Description     | 
@@ -29,10 +29,10 @@ In this competition our task is to predict whether a passenger was transported t
 |Name              |The first and last names of the passenger.| 
 |Transported       |Whether the passenger was transported to another dimension.| 
 
-  ### test.csv
+  #### test.csv
   Personal records for the remaining one-third (~4300) of the passengers, to be used as test data.
   
-  ### sample_submission.csv
+  #### sample_submission.csv
   A submission file in the correct format.    
 |Files   |Description| 
 |------------------|-------------------|
