@@ -1,5 +1,6 @@
 # Kaggle Challenge : Spaceship Titanic :rocket:
-<img src="https://storage.googleapis.com/kaggle-media/competitions/Spaceship%20Titanic/joel-filipe-QwoNAhbmLLo-unsplash.jpg" alt="Logo" width="400">
+<img src="https://images.nightcafe.studio/jobs/neJ6WkwM4rNhSCoSr5Ub/neJ6WkwM4rNhSCoSr5Ub--1--u6g4v_4x.jpg?tr=w-1600,c-at_max" alt="Logo" width="400">
+
 This project involves working on a dataset provided by a Kaggle competition named "Space Titanic". The goal of the competition is to predict whether a passenger was transported to an alternate dimension during the spaceship's voyage. This project demonstrates the entire data science workflow: from data loading and cleaning to exploratory data analysis, feature engineering, model training, and finally, making predictions for submission.
 
 ## Team Members 👩🏼‍🤝‍🧑🏼
