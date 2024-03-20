@@ -46,7 +46,13 @@ We have utilized Google Colab for collaborative coding and GitHub for version co
 ➡️ https://colab.research.google.com/drive/13r6DaJig_OH3AE0Iu26IvlMHtoQoZFFh ⬅️
  ### Github Link:
 ➡️ https://github.com/kaggle-Challenge-Team-9/Kaggle_challenge ⬅️
-## Presentation 📽️
+
+## Features ✨
+  * Data Preprocessing: Cleaning and preparing data for analysis, including handling missing values and feature encoding.
+  * Exploratory Data Analysis (EDA): Visual and statistical analysis to uncover patterns and insights from the data.
+  * Predictive Modeling: Building and evaluating machine learning models to predict passenger survival.
+  * Model Evaluation: Assessing model performance with appropriate metrics.
+  * Kaggle Submission: Generating a submission file formatted for the Kaggle competition.
 
 ## Critical Analysis 📈🔬
 
