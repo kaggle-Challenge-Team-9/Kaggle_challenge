@@ -36,7 +36,7 @@ In this competition our task is to predict whether a passenger was transported t
   A submission file in the correct format.    
 |Files   |Description| 
 |------------------|-------------------|
-|Passenger d       |Id for each passenger in the test set.| 
+|Passenger Id       |Id for each passenger in the test set.| 
 |Transported       |The target. For each passenger, predict either True or False.| 
  
 ## Colab & GitHub 🖥
