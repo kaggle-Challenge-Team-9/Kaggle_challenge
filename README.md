@@ -54,10 +54,5 @@ In this competition our task is to predict whether a passenger was transported t
   * Model Evaluation: Assessing model performance with appropriate metrics.
   * Kaggle Submission: Generating a submission file formatted for the Kaggle competition.
 
-
-## Critical Analysis 📈🔬
-
-## Teamwork 🤝🌟
-
 ## Submissions 📝
 ![image](https://github.com/kaggle-Challenge-Team-9/Kaggle_challenge/assets/117082209/c5227299-3040-47bf-8637-588eea0de875)
