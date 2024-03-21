@@ -56,3 +56,6 @@ In this competition our task is to predict whether a passenger was transported t
 
 ## Submissions 📝
 ![image](https://github.com/kaggle-Challenge-Team-9/Kaggle_challenge/assets/117082209/c5227299-3040-47bf-8637-588eea0de875)
+
+### Our best score
+![image](https://github.com/kaggle-Challenge-Team-9/Kaggle_challenge/assets/117082209/9a87cfe2-1c56-4dfe-8f0c-2609262ee307)
